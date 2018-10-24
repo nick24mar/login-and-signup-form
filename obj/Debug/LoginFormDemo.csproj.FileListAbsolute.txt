@@ -1,0 +1,12 @@
+C:\Users\nicky\source\repos\LoginFormDemo\bin\Debug\LoginFormDemo.exe.config
+C:\Users\nicky\source\repos\LoginFormDemo\bin\Debug\LoginFormDemo.exe
+C:\Users\nicky\source\repos\LoginFormDemo\bin\Debug\LoginFormDemo.pdb
+C:\Users\nicky\source\repos\LoginFormDemo\obj\Debug\LoginFormDemo.csprojAssemblyReference.cache
+C:\Users\nicky\source\repos\LoginFormDemo\obj\Debug\LoginFormDemo.Form1.resources
+C:\Users\nicky\source\repos\LoginFormDemo\obj\Debug\LoginFormDemo.LoginFormControl.resources
+C:\Users\nicky\source\repos\LoginFormDemo\obj\Debug\LoginFormDemo.Properties.Resources.resources
+C:\Users\nicky\source\repos\LoginFormDemo\obj\Debug\LoginFormDemo.csproj.GenerateResource.cache
+C:\Users\nicky\source\repos\LoginFormDemo\obj\Debug\LoginFormDemo.csproj.CoreCompileInputs.cache
+C:\Users\nicky\source\repos\LoginFormDemo\obj\Debug\LoginFormDemo.exe
+C:\Users\nicky\source\repos\LoginFormDemo\obj\Debug\LoginFormDemo.pdb
+C:\Users\nicky\source\repos\LoginFormDemo\obj\Debug\LoginFormDemo.SignupFormControl.resources
